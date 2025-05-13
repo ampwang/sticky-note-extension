@@ -1,8 +1,8 @@
 {
   "manifest_version": 3,
-  "name": "Sticky Note Overlay",
+  "name": "Simple sticky notes",
   "version": "1.0",
-  "description": "Draggable sticky note for screen sharing.",
+  "description": "Add movable sticky notes during screen sharing.",
   "permissions": ["storage"],
   "content_scripts": [
     {
